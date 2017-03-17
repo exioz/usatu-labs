@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1489466229</timestamp>
+  <hostname>ws-10-403</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector 2017</product>
+  <buildNumber type="s32_t">475470</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <CPUFrequency type="s64_t">3200000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">60</CPUModel>
+  <CPUStepping type="s32_t">3</CPUStepping>
+  <CPUBrandName>Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz</CPUBrandName>
+  <isa>avx</isa>
+  <collectionTimeBegin type="u64_t">1489466229</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1489466259</collectionTimeEnd>
+  <variables>
+   <at>ti3</at>
+  </variables>
+ </rdmgr>
+</root>

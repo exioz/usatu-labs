@@ -1,0 +1,18 @@
+D:\Study\ОС\Lab3\src\Lab3\bin\Debug\Lab3.exe.config
+D:\Study\ОС\Lab3\src\Lab3\bin\Debug\Lab3.exe
+D:\Study\ОС\Lab3\src\Lab3\bin\Debug\Lab3.pdb
+D:\Study\ОС\Lab3\src\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Study\ОС\Lab3\src\Lab3\obj\Debug\Lab3.MainForm.resources
+D:\Study\ОС\Lab3\src\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Study\ОС\Lab3\src\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+D:\Study\ОС\Lab3\src\Lab3\obj\Debug\Lab3.exe
+D:\Study\ОС\Lab3\src\Lab3\obj\Debug\Lab3.pdb
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\bin\Debug\Lab3.exe.config
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\obj\Debug\Lab3.exe
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\obj\Debug\Lab3.pdb
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\bin\Debug\Lab3.exe
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\bin\Debug\Lab3.pdb
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\obj\Debug\Lab3.MainForm.resources
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\obj\Debug\Lab3.Properties.Resources.resources
+D:\Study\Laboratory works\4th semester\OS\Lab3\src\obj\Debug\Lab3.csproj.GenerateResource.Cache

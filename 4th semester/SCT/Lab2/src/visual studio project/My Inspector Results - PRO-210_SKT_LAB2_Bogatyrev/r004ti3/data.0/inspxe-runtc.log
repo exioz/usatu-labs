@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2017/03/14 09:33:29</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>c:\Users\student\Documents\Visual Studio 2015\Projects\PRO-210_SKT_LAB2_Bogatyrev\PRO-210_SKT_LAB2_Bogatyrev\My Inspector Results - PRO-210_SKT_LAB2_Bogatyrev\r004ti3\r004ti3.inspxe</arg>
+</msg>
+<msg id="4" tool="tc">
+  <type>START</type>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:29 2017</timestamp>
+</msg>
+<msg id="5" tool="tc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>c:\users\student\documents\visual studio 2015\projects\pro-210_skt_lab2_bogatyrev\x64\debug\pro-210_skt_lab2_bogatyrev.exe</arg>
+  <arg>6204</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:29 2017</timestamp>
+</msg>
+<msg id="6" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\kernel32.dll</arg>
+  <arg>0x77570000</arg>
+  <arg>0x7768efff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:29 2017</timestamp>
+</msg>
+<msg id="7" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\ntdll.dll</arg>
+  <arg>0x77690000</arg>
+  <arg>0x77839fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:29 2017</timestamp>
+</msg>
+<msg id="8" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\users\student\documents\visual studio 2015\projects\pro-210_skt_lab2_bogatyrev\x64\debug\pro-210_skt_lab2_bogatyrev.exe</arg>
+  <arg>0x13ffd0000</arg>
+  <arg>0x13ffe5fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:29 2017</timestamp>
+</msg>
+<msg id="9" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\kernelbase.dll</arg>
+  <arg>0x7fefd690000</arg>
+  <arg>0x7fefd6f9fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:29 2017</timestamp>
+</msg>
+<msg id="10" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\compilers_and_libraries_2017\windows\redist\intel64\compiler\libiomp5md.dll</arg>
+  <arg>0x7fee7ca0000</arg>
+  <arg>0x7fee7e0ffff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="11" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\compilers_and_libraries_2017\windows\redist\intel64\compiler\libmmd.dll</arg>
+  <arg>0x7fedff20000</arg>
+  <arg>0x7fee0276fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="12" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\vcruntime140d.dll</arg>
+  <arg>0x7fef81f0000</arg>
+  <arg>0x7fef8211fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="13" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\ucrtbased.dll</arg>
+  <arg>0x7fee7270000</arg>
+  <arg>0x7fee742afff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="14" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll</arg>
+  <arg>0x7fef58c0000</arg>
+  <arg>0x7fef58c2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="15" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-file-l2-1-0.dll</arg>
+  <arg>0x7fef58b0000</arg>
+  <arg>0x7fef58b2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="16" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-localization-l1-2-0.dll</arg>
+  <arg>0x7fef58a0000</arg>
+  <arg>0x7fef58a2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="17" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll</arg>
+  <arg>0x7fef5890000</arg>
+  <arg>0x7fef5892fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="18" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll</arg>
+  <arg>0x7fef3c60000</arg>
+  <arg>0x7fef3c62fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="19" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-file-l1-2-0.dll</arg>
+  <arg>0x7fef3c50000</arg>
+  <arg>0x7fef3c52fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:30 2017</timestamp>
+</msg>
+<msg id="20" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\inspector 2017\bin64\runtime\libittnotify.dll</arg>
+  <arg>0x7fef81b0000</arg>
+  <arg>0x7fef81e2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:31 2017</timestamp>
+</msg>
+<msg id="21" tool="tc">
+  <type>THREADNAME</type>
+  <arg>2316</arg>
+  <arg>OMP Worker Thread #3</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:32 2017</timestamp>
+</msg>
+<msg id="22" tool="tc">
+  <type>THREADNAME</type>
+  <arg>5224</arg>
+  <arg>OMP Worker Thread #2</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:32 2017</timestamp>
+</msg>
+<msg id="23" tool="tc">
+  <type>THREADNAME</type>
+  <arg>6464</arg>
+  <arg>OMP Worker Thread #1</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:32 2017</timestamp>
+</msg>
+<msg id="24" tool="tc">
+  <type>THREADNAME</type>
+  <arg>5548</arg>
+  <arg>OMP Master Thread #0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:32 2017</timestamp>
+</msg>
+<msg id="25" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>1,0,0,1,0</arg>
+  <arg>518,556,564,365,309712</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:32 2017</timestamp>
+</msg>
+<msg id="26" tool="tc">
+  <type>CTSA_NO_STACK</type>
+  <severity>WARNING</severity>
+  <timestamp>Sun Jun 11 09:33:32 2017</timestamp>
+</msg>
+<msg id="27" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2580426,2656112,2649100,10,2244598</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:33 2017</timestamp>
+</msg>
+<msg id="28" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2728124,2821703,2842398,10,2838088</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:34 2017</timestamp>
+</msg>
+<msg id="29" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2757309,2817350,2828052,10,2812074</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:35 2017</timestamp>
+</msg>
+<msg id="30" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2741594,5660992,2855158,10,2854293</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:36 2017</timestamp>
+</msg>
+<msg id="31" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2755513,2800862,2810740,10,2802658</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:37 2017</timestamp>
+</msg>
+<msg id="32" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2763595,2804005,2806056,10,2828700</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:38 2017</timestamp>
+</msg>
+<msg id="33" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2739798,2806901,5633154,10,2824210</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:39 2017</timestamp>
+</msg>
+<msg id="34" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2746533,5637060,2845313,10,2848565</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:40 2017</timestamp>
+</msg>
+<msg id="35" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2705225,2792720,2790535,10,2584333</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:41 2017</timestamp>
+</msg>
+<msg id="36" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2769432,2796112,2823875,10,2818373</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:42 2017</timestamp>
+</msg>
+<msg id="37" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2784249,2842170,2851034,10,2853844</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:43 2017</timestamp>
+</msg>
+<msg id="38" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2792780,2885069,2891274,10,2892907</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:44 2017</timestamp>
+</msg>
+<msg id="39" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2743839,2840214,2859403,10,2834537</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:45 2017</timestamp>
+</msg>
+<msg id="40" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2747431,2843176,2858896,10,2828700</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:46 2017</timestamp>
+</msg>
+<msg id="41" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2741145,2803176,2820618,10,2821067</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:47 2017</timestamp>
+</msg>
+<msg id="42" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2749227,2816632,2839516,10,2834088</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:48 2017</timestamp>
+</msg>
+<msg id="43" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2730369,2811310,2825329,10,2830496</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:49 2017</timestamp>
+</msg>
+<msg id="44" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>2860654,7757788,8890432,10,4554020</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:50 2017</timestamp>
+</msg>
+<msg id="45" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\apphelp.dll</arg>
+  <arg>0x7fefd4b0000</arg>
+  <arg>0x7fefd506fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:51 2017</timestamp>
+</msg>
+<msg id="46" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>7811678,1321129,1383769,10,3978492</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:51 2017</timestamp>
+</msg>
+<msg id="47" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,10,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:52 2017</timestamp>
+</msg>
+<msg id="48" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,10,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:53 2017</timestamp>
+</msg>
+<msg id="49" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,10,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:54 2017</timestamp>
+</msg>
+<msg id="50" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>2316,5224,6464,5920,5548</arg>
+  <arg>1,1,1,1,1</arg>
+  <arg>0,0,0,10,0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="51" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\kernel32.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="52" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\ntdll.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="53" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\users\student\documents\visual studio 2015\projects\pro-210_skt_lab2_bogatyrev\x64\debug\pro-210_skt_lab2_bogatyrev.exe</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="54" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\kernelbase.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="55" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\compilers_and_libraries_2017\windows\redist\intel64\compiler\libiomp5md.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="56" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\compilers_and_libraries_2017\windows\redist\intel64\compiler\libmmd.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="57" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\vcruntime140d.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="58" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\ucrtbased.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="59" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="60" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-file-l2-1-0.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="61" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-localization-l1-2-0.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="62" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="63" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="64" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-file-l1-2-0.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="65" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\inspector 2017\bin64\runtime\libittnotify.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="66" tool="tc">
+  <type>UNLOAD_MODULE</type>
+  <arg>c:\windows\system32\apphelp.dll</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="67" tool="tc">
+  <type>PROCESS_TERMINATE</type>
+  <arg>c:\users\student\documents\visual studio 2015\projects\pro-210_skt_lab2_bogatyrev\x64\debug\pro-210_skt_lab2_bogatyrev.exe</arg>
+  <arg>6204</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="68" tool="tc">
+  <type>ANALYSIS_COMPLETE</type>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="69" tool="tc">
+  <type>STOP</type>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:33:55 2017</timestamp>
+</msg>
+<msg id="70" tool="runtool">
+  <type>app-exit-code</type>
+  <arg>0</arg>
+</msg>
+<msg id="71" tool="runtool">
+  <type>marker-file</type>
+  <arg>c:\Users\student\Documents\Visual Studio 2015\Projects\PRO-210_SKT_LAB2_Bogatyrev\PRO-210_SKT_LAB2_Bogatyrev\My Inspector Results - PRO-210_SKT_LAB2_Bogatyrev\r004ti3\r004ti3.inspxe</arg>
+</msg>
+<msg id="72" tool="runtool">
+  <type>collector-done</type>
+</msg>
+<msg id="73" tool="runtool">
+  <type>log-end</type>
+  <arg>2017/03/14 09:33:59</arg>
+</msg>
+
+</log>
+

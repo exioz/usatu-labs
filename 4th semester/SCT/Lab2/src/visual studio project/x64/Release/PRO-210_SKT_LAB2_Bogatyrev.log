@@ -1,0 +1,6 @@
+﻿  PRO-210_SKT_LAB2_Bogatyrev.cpp
+PRO-210_SKT_LAB2_Bogatyrev.cpp(30): warning #3180: unrecognized OpenMP #pragma
+    #pragma omp parallel for
+            ^
+  
+  PRO-210_SKT_LAB2_Bogatyrev.vcxproj -> c:\users\student\Documents\Visual Studio 2015\Projects\PRO-210_SKT_LAB2_Bogatyrev\x64\Release\PRO-210_SKT_LAB2_Bogatyrev.exe

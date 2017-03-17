@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="c:\Users\student\Documents\Visual Studio 2015\Projects\PRO-210_SKT_LAB2_Bogatyrev\PRO-210_SKT_LAB2_Bogatyrev\PRO-210_SKT_LAB2_Bogatyrev.cpp" md5="5e43f3680565b8509c3653624b7bcc2c">
+    <snippet line="30">
+      <line line="27">    }</line>
+      <line line="28">    double sum = 0;</line>
+      <line line="29">    #pragma omp parallel for</line>
+      <line line="30">    for (int i = 2; i &lt;= n; i++) {</line>
+      <line line="31">        double ln = log(i);</line>
+    </snippet>
+    <snippet line="33">
+      <line line="30">    for (int i = 2; i &lt;= n; i++) {</line>
+      <line line="31">        double ln = log(i);</line>
+      <line line="32">        sum += 1 / (ln * ln * i);</line>
+      <line line="33">    }</line>
+      <line line="34">    return sum;</line>
+    </snippet>
+  </file>
+</snippets>

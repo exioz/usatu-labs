@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2017/03/14 09:32:08</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>c:\Users\student\Documents\Visual Studio 2015\Projects\PRO-210_SKT_LAB2_Bogatyrev\PRO-210_SKT_LAB2_Bogatyrev\My Inspector Results - PRO-210_SKT_LAB2_Bogatyrev\r003ti3\r003ti3.inspxe</arg>
+</msg>
+<msg id="4" tool="tc">
+  <type>START</type>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="5" tool="tc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>c:\users\student\documents\visual studio 2015\projects\pro-210_skt_lab2_bogatyrev\x64\debug\pro-210_skt_lab2_bogatyrev.exe</arg>
+  <arg>2968</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="6" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\kernel32.dll</arg>
+  <arg>0x77570000</arg>
+  <arg>0x7768efff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="7" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\ntdll.dll</arg>
+  <arg>0x77690000</arg>
+  <arg>0x77839fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="8" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\users\student\documents\visual studio 2015\projects\pro-210_skt_lab2_bogatyrev\x64\debug\pro-210_skt_lab2_bogatyrev.exe</arg>
+  <arg>0x13fe50000</arg>
+  <arg>0x13fe65fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="9" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\kernelbase.dll</arg>
+  <arg>0x7fefd690000</arg>
+  <arg>0x7fefd6f9fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="10" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\compilers_and_libraries_2017\windows\redist\intel64\compiler\libiomp5md.dll</arg>
+  <arg>0x7fee8890000</arg>
+  <arg>0x7fee89fffff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:08 2017</timestamp>
+</msg>
+<msg id="11" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\compilers_and_libraries_2017\windows\redist\intel64\compiler\libmmd.dll</arg>
+  <arg>0x7fee0280000</arg>
+  <arg>0x7fee05d6fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="12" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\vcruntime140d.dll</arg>
+  <arg>0x7fef8220000</arg>
+  <arg>0x7fef8241fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="13" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\ucrtbased.dll</arg>
+  <arg>0x7fee86d0000</arg>
+  <arg>0x7fee888afff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="14" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll</arg>
+  <arg>0x7fef58c0000</arg>
+  <arg>0x7fef58c2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="15" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-file-l2-1-0.dll</arg>
+  <arg>0x7fef58b0000</arg>
+  <arg>0x7fef58b2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="16" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-localization-l1-2-0.dll</arg>
+  <arg>0x7fef58a0000</arg>
+  <arg>0x7fef58a2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="17" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll</arg>
+  <arg>0x7fef5890000</arg>
+  <arg>0x7fef5892fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="18" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll</arg>
+  <arg>0x7fef3c60000</arg>
+  <arg>0x7fef3c62fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="19" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>c:\windows\system32\api-ms-win-core-file-l1-2-0.dll</arg>
+  <arg>0x7fef3c50000</arg>
+  <arg>0x7fef3c52fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:09 2017</timestamp>
+</msg>
+<msg id="20" tool="tc">
+  <type>LOAD_MODULE</type>
+  <arg>d:\program files\intelswtools\inspector 2017\bin64\runtime\libittnotify.dll</arg>
+  <arg>0x7fef81a0000</arg>
+  <arg>0x7fef81d2fff</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="21" tool="tc">
+  <type>THREADNAME</type>
+  <arg>5612</arg>
+  <arg>OMP Worker Thread #3</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="22" tool="tc">
+  <type>THREADNAME</type>
+  <arg>3516</arg>
+  <arg>OMP Worker Thread #2</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="23" tool="tc">
+  <type>THREADNAME</type>
+  <arg>776</arg>
+  <arg>OMP Worker Thread #1</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="24" tool="tc">
+  <type>THREADNAME</type>
+  <arg>5464</arg>
+  <arg>OMP Master Thread #0</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="25" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>5612,3516,776,5072,5464</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>539,569,547,365,366846</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="26" tool="tc">
+  <type>CTSA_NO_STACK</type>
+  <severity>WARNING</severity>
+  <timestamp>Sun Jun 11 09:32:10 2017</timestamp>
+</msg>
+<msg id="27" tool="tc">
+  <type>HEARTBEAT</type>
+  <arg>5612,3516,776,5072,5464</arg>
+  <arg>0,0,0,1,0</arg>
+  <arg>3793578,3919257,3823291,10,3139976</arg>
+  <severity>INFO</severity>
+  <timestamp>Sun Jun 11 09:32:11 2017</timestamp>
+</msg>
