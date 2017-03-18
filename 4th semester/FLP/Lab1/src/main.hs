@@ -67,7 +67,7 @@ fib' n = fib' (n - 1) + fib' (n - 2)
 factorial :: Integer -> Integer
 factorial' :: Integer -> Integer
 factorial n
-	| n <= 0 = 0
+	| n < 0 = 0
 	| True = factorial' n
 factorial' 0 = 1
 factorial' n = n * factorial' (n - 1)
